@@ -7,4 +7,4 @@ Generative art in Common Lisp
 | commit  | fb50aa8                                       |
 | systems | weird                                         |
 |---------+-----------------------------------------------|
- 
+  
